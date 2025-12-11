@@ -1,5 +1,6 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=tirolenitin&theme=javascript-dark&exclude_days=Sun,Sat)](https://git.io/streak-stats)
 ## Hi there 👋
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tirolenitin&theme=javascript-dark&exclude_days=Sun,Sat)
 
 
 
