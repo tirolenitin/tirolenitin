@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tirolenitin&theme=javascript-dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tirolenitin&theme=javascript-dark&exclude_days=Sun,Sat)](https://git.io/streak-stats)
+
 
 <!--
 **tirolenitin/tirolenitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
