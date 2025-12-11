@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tirolenitin&theme=javascript-dark&exclude_days=Sun,Sat)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tirolenitin&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 
